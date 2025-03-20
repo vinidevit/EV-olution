@@ -2,7 +2,7 @@
 
 ## projeto totalmente desenvolvido em react
 
--Bem-vindo ao **EV-olution**! Este é um projeto inovador que visa trazer o futuro da mobilidade sustentável por meio de um **carro elétrico de última geração**. Nosso objetivo é transformar a maneira como nos movemos, proporcionando uma experiência de condução eficiente, ecológica e de alta performance.
+- Bem-vindo ao **EV-olution**! Este é um projeto inovador que visa trazer o futuro da mobilidade sustentável por meio de um **carro elétrico de última geração**. Nosso objetivo é transformar a maneira como nos movemos, proporcionando uma experiência de condução eficiente, ecológica e de alta performance.
 
 - link de acesso: https://ev-olution-gamma.vercel.app/
 
